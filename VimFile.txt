@@ -1,3 +1,3 @@
-Demo for replacing all "to" words with "Cristiano".
+Demo for replacing all "Cristiano" words with "Cristiano".
 To do that i am using vim.
-to aughsjf beruyt to hguiser to.
+Cristiano aughsjf beruyt Cristiano hguiser Cristiano.
